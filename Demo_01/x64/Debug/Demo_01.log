@@ -1,0 +1,4 @@
+﻿  Demo_01.cpp
+D:\wyy\Compilation principle\Demo_01\Demo_01\Demo_01.cpp(107,16): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\wyy\Compilation principle\Demo_01\Demo_01\Demo_01.cpp(246,18): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  Demo_01.vcxproj -> D:\wyy\Compilation principle\Demo_01\x64\Debug\Demo_01.exe
