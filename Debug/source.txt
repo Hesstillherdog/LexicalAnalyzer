@@ -1,0 +1,13 @@
+int var1 = 0;
+float abc = 0.314E+1;
+complex result = 10+12i;
+
+if (var1 == -5) {
+    var1 += 1;
+} else {
+    result = abc - 3.14;
+    temp = var1 * result;
+    while (temp-- > 0) {
+        return;
+    }
+}
